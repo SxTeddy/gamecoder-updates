@@ -87,7 +87,7 @@ Windows 10/11 (64-bit) · [Roblox Studio](https://create.roblox.com/) · [Ollama
 
 ## © License
 
-**Game Coder - Copyright (c) 2026 HXZ. All rights reserved. สร้างโดย HXZ !**
+**Game Coder - Copyright (c) 2026 HXZ ! All rights reserved. สร้างโดย HXZ !**
 
 You may install and use the copies HXZ releases here for personal use.
 Copying, redistributing, selling, modifying and passing it off as your own work, or removing the "สร้างโดย HXZ !" credit is not allowed without written permission from HXZ.
