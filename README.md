@@ -12,7 +12,7 @@
 
 ---
 
-## 🇹🇭 Game Coder คืออะไร
+## ภาษาไทย · Game Coder คืออะไร
 
 **Game Coder** คือแอปช่วยทำเกม Roblox ด้วย AI ที่รัน**ในเครื่องคุณเอง** (ไม่ต้องจ่ายค่า AI รายเดือน ไม่ส่งงานของคุณขึ้นคลาวด์)
 บอกสิ่งที่อยากได้เป็นภาษาไทย แล้วทีม AI จะออกแบบ เขียนโค้ด Luau สร้างฉาก ตรวจบั๊ก และส่งเข้า Roblox Studio ให้
@@ -58,7 +58,7 @@
 
 ---
 
-## 🇬🇧 What is Game Coder?
+## English · What is Game Coder?
 
 **Game Coder** is an AI game-making app for Roblox that runs **on your own PC** (no monthly AI bill, your work never leaves your computer).
 Describe what you want, and a team of AI agents designs it, writes Luau code, builds the map, checks for bugs, and sends it into Roblox Studio.
